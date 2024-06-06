@@ -1,0 +1,12 @@
+C:\DevC\Aula20240606\bin\Debug\Aula20240606.exe.config
+C:\DevC\Aula20240606\bin\Debug\Aula20240606.exe
+C:\DevC\Aula20240606\bin\Debug\Aula20240606.pdb
+C:\DevC\Aula20240606\obj\Debug\Aula20240606.csproj.AssemblyReference.cache
+C:\DevC\Aula20240606\obj\Debug\Aula20240606.csproj.SuggestedBindingRedirects.cache
+C:\DevC\Aula20240606\obj\Debug\Aula20240606.Form1.resources
+C:\DevC\Aula20240606\obj\Debug\Aula20240606.Form2.resources
+C:\DevC\Aula20240606\obj\Debug\Aula20240606.Properties.Resources.resources
+C:\DevC\Aula20240606\obj\Debug\Aula20240606.csproj.GenerateResource.cache
+C:\DevC\Aula20240606\obj\Debug\Aula20240606.csproj.CoreCompileInputs.cache
+C:\DevC\Aula20240606\obj\Debug\Aula20240606.exe
+C:\DevC\Aula20240606\obj\Debug\Aula20240606.pdb
